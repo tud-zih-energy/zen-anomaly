@@ -1,0 +1,13 @@
+Benchmark,Relative Difference (%),Metric
+EP,-6.968,Power
+EP,-1.652,Runtime
+EP,-8.735,Energy
+Pointer Chasing,-4.0659,Power
+Pointer Chasing,-5.3395,Runtime
+Pointer Chasing,-9.6224,Energy
+MG,-1.3826,Power
+MG,0.2682,Runtime
+MG,-0.0111,Energy
+STREAM,0.7998,Power
+STREAM,0.3765,Runtime
+STREAM,1.011,Energy
